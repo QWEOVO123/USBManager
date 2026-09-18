@@ -2,6 +2,8 @@
 
 USBManager 是一个由 **KernelSU 后台模块**和**无桌面图标的弹窗 APK**组成的 USB 模式选择器。连接电脑时，设备先保持仅充电；解锁后弹出一次选择窗口，由用户决定本次连接使用仅充电、MTP 文件传输、PTP 照片传输或 USB 网络共享，并可同时开启 ADB 调试。
 
+本项目已停止更新
+
 [下载最新 KernelSU 安装包](https://github.com/QWEOVO123/USBManager/releases/latest)
 
 ## 工作方式
